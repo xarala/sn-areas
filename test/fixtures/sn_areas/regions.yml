@@ -1,0 +1,51 @@
+dakar:
+  nom: "dakar"
+  surface: 1
+  
+diourbel:
+  nom: "diourbel"
+  surface: 1
+
+fatick:
+  nom: "fatick"
+  surface: 1
+    
+kaffine:
+  nom: "kaffine"
+  surface: 1
+    
+kaolack:
+  nom: "kaolack"
+  surface: 1
+  
+kedougou:
+  nom: "kédougou"
+  surface: 1
+  
+kolda:
+  nom: "kolda"
+  surface: 1
+ 
+saint_louis:
+  nom: "saint louis"
+  surface: 1
+  
+matam:
+  nom: "matam"
+  surface: 1
+  
+sedhiou:
+  nom: "sedhiou"
+  surface: 1  
+  
+tambacounda:
+  nom: "tambacounda"
+  surface: 1  
+  
+thies:
+  nom: "thies"
+  surface: 1
+  
+ziguinchor:
+  nom: "ziguinchor"
+  surface: 1
